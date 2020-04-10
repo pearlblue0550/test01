@@ -1,1 +1,3 @@
-ファイルの更新
+git add.
+git remote add origin https://github.com/pearlblue0550/test01.git
+git commit -m "Gitにファイル登録"
